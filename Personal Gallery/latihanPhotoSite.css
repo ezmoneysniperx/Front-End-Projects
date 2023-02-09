@@ -1,0 +1,41 @@
+img {
+    width: 30%;
+    margin: calc(10%/6);
+} 
+
+nav {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0 ;
+    font-family: Raleway, sans-serif;
+    font-weight: 800;
+    font-size: 2em;
+}
+
+div nav span{
+    color: white;
+}
+
+h5 {
+    font-family: Raleway, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 auto;
+    border-bottom: 2px solid black;
+    padding-bottom: 1em;
+}
+
+p {
+    font-family: Dancing Script, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 27px;
+    color: white;
+}
+
+.jumbotron {
+    background-color: #808080;
+    padding-bottom: 1%;
+}
